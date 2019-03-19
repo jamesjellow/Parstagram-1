@@ -7,6 +7,7 @@
 //
 
 import UIKit
+<<<<<<< HEAD
 import Parse
 import AlamofireImage
 import MessageInputBar
@@ -176,6 +177,18 @@ class FeedViewController: UIViewController, UITableViewDelegate, UITableViewData
             selectedPost = post
         }
     }
+=======
+
+class FeedViewController: UIViewController {
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+
+        // Do any additional setup after loading the view.
+    }
+    
+
+>>>>>>> parent of 9890aaa... add post function and pull to refresh
     /*
     // MARK: - Navigation
 

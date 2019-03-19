@@ -15,9 +15,12 @@
 		816EC035222E254500D9BC58 /* ParstagramUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 816EC034222E254500D9BC58 /* ParstagramUITests.swift */; };
 		816EC0432230C43200D9BC58 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 816EC0422230C43200D9BC58 /* LoginViewController.swift */; };
 		816EC0452230C43B00D9BC58 /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 816EC0442230C43B00D9BC58 /* FeedViewController.swift */; };
+<<<<<<< HEAD
 		81A3E773223759FA009BF31C /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81A3E772223759FA009BF31C /* CommentCell.swift */; };
 		81FDA61722360DE100906412 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FDA61622360DE000906412 /* CameraViewController.swift */; };
 		81FDA619223621BB00906412 /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FDA618223621BB00906412 /* PostCell.swift */; };
+=======
+>>>>>>> parent of 9890aaa... add post function and pull to refresh
 		95B1F2A1D450DA8027F2251B /* Pods_Parstagram.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A18327BA2091B1EC1808755A /* Pods_Parstagram.framework */; };
 		9CA170C648656549529B854D /* Pods_ParstagramTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9AD87139C45FA289F2106A96 /* Pods_ParstagramTests.framework */; };
 		D6E92F583EEC1DC4AE213C16 /* Pods_ParstagramUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 008C99034ACB568C3088B5AE /* Pods_ParstagramUITests.framework */; };
@@ -59,9 +62,12 @@
 		816EC036222E254500D9BC58 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		816EC0422230C43200D9BC58 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		816EC0442230C43B00D9BC58 /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
+<<<<<<< HEAD
 		81A3E772223759FA009BF31C /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		81FDA61622360DE000906412 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 		81FDA618223621BB00906412 /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
+=======
+>>>>>>> parent of 9890aaa... add post function and pull to refresh
 		8BB235F14351991EDC355203 /* Pods-ParstagramTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ParstagramTests.debug.xcconfig"; path = "Target Support Files/Pods-ParstagramTests/Pods-ParstagramTests.debug.xcconfig"; sourceTree = "<group>"; };
 		9AD87139C45FA289F2106A96 /* Pods_ParstagramTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ParstagramTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A18327BA2091B1EC1808755A /* Pods_Parstagram.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Parstagram.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -139,9 +145,12 @@
 				816EC020222E254500D9BC58 /* Info.plist */,
 				816EC0422230C43200D9BC58 /* LoginViewController.swift */,
 				816EC0442230C43B00D9BC58 /* FeedViewController.swift */,
+<<<<<<< HEAD
 				81FDA61622360DE000906412 /* CameraViewController.swift */,
 				81FDA618223621BB00906412 /* PostCell.swift */,
 				81A3E772223759FA009BF31C /* CommentCell.swift */,
+=======
+>>>>>>> parent of 9890aaa... add post function and pull to refresh
 			);
 			path = Parstagram;
 			sourceTree = "<group>";
@@ -412,11 +421,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				816EC0432230C43200D9BC58 /* LoginViewController.swift in Sources */,
-				81FDA61722360DE100906412 /* CameraViewController.swift in Sources */,
 				816EC0452230C43B00D9BC58 /* FeedViewController.swift in Sources */,
 				816EC015222E254300D9BC58 /* AppDelegate.swift in Sources */,
+<<<<<<< HEAD
 				81FDA619223621BB00906412 /* PostCell.swift in Sources */,
 				81A3E773223759FA009BF31C /* CommentCell.swift in Sources */,
+=======
+>>>>>>> parent of 9890aaa... add post function and pull to refresh
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
