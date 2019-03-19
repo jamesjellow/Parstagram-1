@@ -48,8 +48,13 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <nil key="textColor"/>
 <<<<<<< HEAD
+<<<<<<< HEAD
                                 <fontDescription key="fontDescription" type="system" pointSize="12"/>
                                 <textInputTraits key="textInputTraits" secureTextEntry="YES" textContentType="password"/>
+=======
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits"/>
+>>>>>>> parent of 9890aaa... add post function and pull to refresh
 =======
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits"/>
@@ -96,6 +101,7 @@
                     <view key="view" contentMode="scaleToFill" id="Goc-hl-fXK">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+<<<<<<< HEAD
 <<<<<<< HEAD
                         <subviews>
                             <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="ZB4-4n-ZCr">
@@ -300,6 +306,16 @@
             </objects>
             <point key="canvasLocation" x="2453.5999999999999" y="131.78410794602701"/>
 =======
+                    <navigationItem key="navigationItem" id="Ama-uq-aYM"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="7Ps-QO-6n7" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1753" y="133"/>
+>>>>>>> parent of 9890aaa... add post function and pull to refresh
+=======
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <viewLayoutGuide key="safeArea" id="34Q-1j-2PB"/>
+                    </view>
                     <navigationItem key="navigationItem" id="Ama-uq-aYM"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="7Ps-QO-6n7" userLabel="First Responder" sceneMemberID="firstResponder"/>

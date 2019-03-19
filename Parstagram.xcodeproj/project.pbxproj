@@ -16,9 +16,12 @@
 		816EC0432230C43200D9BC58 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 816EC0422230C43200D9BC58 /* LoginViewController.swift */; };
 		816EC0452230C43B00D9BC58 /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 816EC0442230C43B00D9BC58 /* FeedViewController.swift */; };
 <<<<<<< HEAD
+<<<<<<< HEAD
 		81A3E773223759FA009BF31C /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81A3E772223759FA009BF31C /* CommentCell.swift */; };
 		81FDA61722360DE100906412 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FDA61622360DE000906412 /* CameraViewController.swift */; };
 		81FDA619223621BB00906412 /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81FDA618223621BB00906412 /* PostCell.swift */; };
+=======
+>>>>>>> parent of 9890aaa... add post function and pull to refresh
 =======
 >>>>>>> parent of 9890aaa... add post function and pull to refresh
 		95B1F2A1D450DA8027F2251B /* Pods_Parstagram.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A18327BA2091B1EC1808755A /* Pods_Parstagram.framework */; };
@@ -63,9 +66,12 @@
 		816EC0422230C43200D9BC58 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 		816EC0442230C43B00D9BC58 /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 <<<<<<< HEAD
+<<<<<<< HEAD
 		81A3E772223759FA009BF31C /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		81FDA61622360DE000906412 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 		81FDA618223621BB00906412 /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
+=======
+>>>>>>> parent of 9890aaa... add post function and pull to refresh
 =======
 >>>>>>> parent of 9890aaa... add post function and pull to refresh
 		8BB235F14351991EDC355203 /* Pods-ParstagramTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ParstagramTests.debug.xcconfig"; path = "Target Support Files/Pods-ParstagramTests/Pods-ParstagramTests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -146,9 +152,12 @@
 				816EC0422230C43200D9BC58 /* LoginViewController.swift */,
 				816EC0442230C43B00D9BC58 /* FeedViewController.swift */,
 <<<<<<< HEAD
+<<<<<<< HEAD
 				81FDA61622360DE000906412 /* CameraViewController.swift */,
 				81FDA618223621BB00906412 /* PostCell.swift */,
 				81A3E772223759FA009BF31C /* CommentCell.swift */,
+=======
+>>>>>>> parent of 9890aaa... add post function and pull to refresh
 =======
 >>>>>>> parent of 9890aaa... add post function and pull to refresh
 			);
@@ -424,8 +433,11 @@
 				816EC0452230C43B00D9BC58 /* FeedViewController.swift in Sources */,
 				816EC015222E254300D9BC58 /* AppDelegate.swift in Sources */,
 <<<<<<< HEAD
+<<<<<<< HEAD
 				81FDA619223621BB00906412 /* PostCell.swift in Sources */,
 				81A3E773223759FA009BF31C /* CommentCell.swift in Sources */,
+=======
+>>>>>>> parent of 9890aaa... add post function and pull to refresh
 =======
 >>>>>>> parent of 9890aaa... add post function and pull to refresh
 			);
