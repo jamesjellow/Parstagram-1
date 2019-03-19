@@ -21,17 +21,9 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         Parse.initialize(
             with: ParseClientConfiguration(block: { (configuration: ParseMutableClientConfiguration) -> Void in
                 configuration.applicationId = "Parstagram"
-                configuration.server = "https://infinite-retreat-98074.herokuapp.com/parse"
+                configuration.server = "https://polar-escarpment-52852.herokuapp.com/parse"
             })
         )
-        
-        if PFUser.current() != nil {
-            let main = UIStoryboard(name: "Main", bundle: nil)
-            let feedNavigationController = main.instantiateViewController(withIdentifier: "FeedNavigationController")
-            
-            window?.rootViewController = feedNavigationController
-        }
-        
         return true
     }
 
