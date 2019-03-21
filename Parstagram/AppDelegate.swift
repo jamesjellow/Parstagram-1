@@ -24,6 +24,14 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
                 configuration.server = "https://polar-escarpment-52852.herokuapp.com/parse"
             })
         )
+        
+        if PFUser.current() != nil {
+            let main = UIStoryboard(name: "Main", bundle: nil)
+            let feedNavigationController = main.instantiateViewController(withIdentifier: "FeedNavigationController") // instance of navigation controller
+            
+            window?.rootViewController = feedNavigationController
+        }
+        
         return true
     }
 
